@@ -1,0 +1,25 @@
+{
+  "name": "hwrite",
+  "version": "0.0.1",
+  "description": "HTML element writer",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngriffiths21/hwrite.git"
+  },
+  "keywords": [
+    "HTML"
+  ],
+  "author": "Nick Griffiths",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngriffiths21/hwrite/issues"
+  },
+  "homepage": "https://github.com/ngriffiths21/hwrite#readme",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
