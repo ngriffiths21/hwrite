@@ -1,7 +1,7 @@
 'use strict'
 
 module.exports = function (elem, attribs, ...children) {
-  let result = document.createElement(elem)
+  const result = document.createElement(elem)
 
   for (var attr in attribs) {
     if (attr.startsWith('on')) {
